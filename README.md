@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D55FF,49:E6B0FF,100:FFB8FF&height=300&section=header&text=👻Woojin Kim👻&fontSize=80&fontColor=FFF4FF&fontAlignY=42.5&animation=twinkling&desc=h0pler&descAlign=72"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D55FF,49:E6B0FF,100:FFB8FF&height=300&section=header&text=👻Woojin%20Kim👻&fontSize=80&fontColor=FFF4FF&fontAlignY=42.5&animation=twinkling&desc=h0pler&descAlign=72"/>
 
 <a href="https://www.instagram.com/dword_ptr_ds"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/kwj0952"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"/></a>
