@@ -3,7 +3,6 @@
 <a href="https://www.instagram.com/dword_ptr_ds"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/kwj0952"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:kimwoojinside2+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:kimwoojinside2+github@gmail.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 
 ## 👋 Welcome
 **안녕하세요 !** <br>
