@@ -26,7 +26,7 @@
 
 ## 🗂️ Tech Stack
 <div align="center" style="display: flex;">
-    <div align="left" style="width: 50%; height: fit-content; margin: 5px; padding: 5px; border: 1px solid red">
+    <div align="left" style="display: inline-block; width: 50%; height: fit-content; margin: 5px; padding: 5px; border: 1px solid red">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
         <br>
