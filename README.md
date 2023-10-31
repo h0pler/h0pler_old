@@ -39,7 +39,7 @@
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
     </div>
-    <a href="https://github.com/anuraghazra/github-readme-stats" float="right">
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler" alt="Top Langs">
     </a>
 </div>
