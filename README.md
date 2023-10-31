@@ -48,9 +48,4 @@
     </div>
 </div>
 
-
-<div align="right">
-    
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D55FF,49:E6B0FF,100:FFB8FF&eight=100&section=footer&desc=😁&descAlign=2&descAlignY=86&animation=blinking"/>
