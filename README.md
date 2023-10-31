@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler" alt="Top Langs">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler" alt="Top Langs">
     </a>
 </div>
 
