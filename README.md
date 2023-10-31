@@ -3,7 +3,6 @@
 <a href="https://www.instagram.com/dword_ptr_ds"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/kwj0952"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:kimwoojinside2+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<br>
 <a href="https://github.com/h0pler"><img src="https://img.shields.io/badge/Github-5F5F5F?style=flat-square&logo=Github&
 logoColor=white"/></a>
 <a href="https://h0pler.tistory.com"><img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&
@@ -18,7 +17,7 @@ logoColor=white"/></a>
 ## 🗂️ Tech Stack
 
 <div style="display: flex;">
-    <div style="flex: 50%;">
+    <div style="flex: 50%; align: left">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
         <br>
@@ -30,7 +29,7 @@ logoColor=white"/></a>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
     </div>
-    <div style="flex: 50%;">
+    <div style="flex: 50%; align: right">
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler" alt="Top Langs">
         </a>
