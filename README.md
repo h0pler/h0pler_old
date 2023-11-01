@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D55FF,49:E6B0FF,100:FFB8FF&height=250&section=header&text=👻Woojin%20Kim👻&fontSize=80&fontColor=FFF4FF&fontAlignY=40&animation=twinkling&desc=h0pler&descAlign=72"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D55FF,49:E6B0FF,100:FFB8FF&height=200
+&section=header&text=👻Woojin%20Kim👻&fontSize=60&fontColor=FFF4FF&fontAlignY=35&animation=twinkling&desc=h0pler&descAlign=65.5&descAlignY=52"/>
 
 <div>
     <a href="https://github.com/h0pler">    
