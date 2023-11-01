@@ -25,7 +25,6 @@
 네트워크와 정보보안 등, 각종 IT 분야에 관심이 많습니다. <br>
 
 ## 🗂️ Tech Stack
-
 <table>
   <tr>
     <td>
@@ -49,8 +48,5 @@
     </td>
   </tr>
 </table>
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D55FF,49:E6B0FF,100:FFB8FF&eight=100&section=footer&desc=😁&descAlign=2&descAlignY=86&animation=blinking"/>
