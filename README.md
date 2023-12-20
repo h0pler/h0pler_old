@@ -11,8 +11,8 @@
     <a href="https://github.com/h0pler">    
         <img src="https://img.shields.io/badge/Github-5F5F5F?style=flat-square&logo=Github&logoColor=white"/>
     </a>
-    <a href="https://h0pler.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/>
+    <!-- <a href="https://h0pler.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/> -->
     </a>
     <a href="https://www.instagram.com/dword_ptr_ds">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
