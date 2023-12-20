@@ -49,7 +49,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler&layout=compact" alt="Top Langs">
       </a>
     </td>
   </tr>
