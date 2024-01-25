@@ -50,11 +50,11 @@
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
       </div>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler&layout=compact" alt="Top Langs">
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
